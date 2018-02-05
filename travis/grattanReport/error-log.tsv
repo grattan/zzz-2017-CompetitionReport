@@ -1,0 +1,215 @@
+Time	build_status	error_message
+2017-01-26 01:26:58	Fixed	NA
+2017-01-26 01:27:12	OK	NA
+2017-01-26 10:41:23	Broken	Each field line in .bib must end with a comma (to allow reordering).
+2017-01-26 10:41:37	Still failing	Each field line in .bib must end with a comma (to allow reordering).
+2017-07-18 13:50:14	Still failing	\label used without prefix.
+2017-07-18 13:52:51	Still failing	\caption present without label.
+2017-07-18 13:56:58	Still failing	Unlabelled chapter or \label without chap: prefix.
+2017-07-18 13:57:23	Still failing	Dash likely masquerading as hyphen. Use -- for a dash.
+2017-07-28 15:09:24	Still failing	Unlabelled chapter or \label without chap: prefix.
+2017-07-28 15:09:49	Still failing	Dash likely masquerading as hyphen. Use -- for a dash.
+2017-07-28 15:10:28	Still failing	Use the macros \etc, \ie, and \eg provided for consistent formatting.
+2017-07-28 15:10:52	Still failing	Spellcheck failed: 'IBISWorld'
+2017-07-28 15:40:03	Still failing	Spellcheck failed: 'ASX'
+2017-07-28 15:40:37	Still failing	Spellcheck failed: 'ANZSIC'
+2017-07-28 15:40:53	Still failing	Spellcheck failed: 'Coles'
+2017-07-28 15:41:19	Still failing	Spellcheck failed: 'Aldi'
+2017-07-28 15:41:31	Still failing	Spellcheck failed: 'Costco'
+2017-07-28 15:41:43	Still failing	Spellcheck failed: 'Telstra'
+2017-08-15 10:20:21	Still failing	Dash likely masquerading as hyphen. Use -- for a dash.
+2017-08-15 10:21:18	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2017-08-15 10:21:38	Still failing	\footnote/\footcite cannot occur twice on the same line in the source. Break this sentence up into multiple lines.
+2017-08-15 10:23:00	Still failing	Punctuation after footnotemark.
+2017-08-15 10:25:28	Still failing	Punctuation mark after footcite number 
+2017-08-15 10:26:39	Still failing	Footnote does not end with full stop.
+2017-08-15 10:27:34	Still failing	Capital letter ends sentence, but sentence-ending period mark absent.
+2017-08-15 10:28:01	Still failing	Each field line in .bib must end with a comma (to allow reordering).
+2017-08-15 10:28:23	Still failing	Use the macros \etc, \ie, and \eg provided for consistent formatting.
+2017-08-15 10:29:03	Still failing	Use the macros \etc, \ie, and \eg provided for consistent formatting.
+2017-08-15 10:29:42	Still failing	\caption present without label.
+2017-08-15 10:30:17	Still failing	\caption present without label.
+2017-08-15 10:30:21	Still failing	\caption present without label.
+2017-08-15 10:30:37	Still failing	\caption present without label.
+2017-08-15 10:30:40	Still failing	\caption present without label.
+2017-08-15 10:30:42	Still failing	\caption present without label.
+2017-08-15 10:31:01	Still failing	\caption present without label.
+2017-08-15 10:33:23	Still failing	\caption present without label.
+2017-08-15 10:35:51	Still failing	\caption present without label.
+2017-08-15 10:35:56	Still failing	\caption present without label.
+2017-08-15 10:37:46	Still failing	Spellcheck failed: 'XX'
+2017-08-15 10:38:12	Still failing	Spellcheck failed: 'XX'
+2017-08-15 10:38:26	Still failing	Spellcheck failed: 'gloabl'
+2017-08-15 10:38:48	Still failing	Spellcheck failed: 'XYZ'
+2017-08-15 10:39:05	Still failing	Spellcheck failed: 'CEA'
+2017-08-15 10:39:18	Still failing	Spellcheck failed: 'CEA'
+2017-08-15 10:39:22	Still failing	Spellcheck failed: 'CEA'
+2017-08-15 10:39:26	Still failing	Spellcheck failed: 'TBTF'
+2017-08-15 10:39:47	Still failing	Spellcheck failed: 'Promarket'
+2017-08-15 10:40:34	Still failing	Spellcheck failed: 'nontraded'
+2017-08-15 10:40:54	Still failing	Spellcheck failed: 'HH'
+2017-08-15 10:41:11	Still failing	Spellcheck failed: 'Sims'
+2017-08-15 10:41:26	Still failing	Spellcheck failed: 'tradables'
+2017-08-15 10:41:47	Still failing	Spellcheck failed: 'intepreted'
+2017-08-15 10:42:06	Still failing	Spellcheck failed: 'tradable'
+2017-08-15 10:42:24	Still failing	Spellcheck failed: 'Graincorp'
+2017-08-15 10:42:56	Still failing	\caption present without label.
+2017-08-15 10:50:05	Still failing	Spellcheck failed: 'Herfindahl'
+2017-08-15 10:50:28	Still failing	Unreferenced figure or table
+2017-08-15 10:50:28	Still failing	Unreferenced figure or table
+2017-08-15 10:50:28	Still failing	Unreferenced figure or table
+2017-08-15 10:50:28	Still failing	Unreferenced figure or table
+2017-08-15 10:50:28	Still failing	Unreferenced figure or table
+2017-08-15 10:50:28	Still failing	Unreferenced figure or table
+2017-08-15 10:50:28	Still failing	Unreferenced figure or table
+2017-08-15 10:53:03	Still failing	Unreferenced figure or table
+2017-08-15 10:53:26	Still failing	Unreferenced figure or table
+2017-08-15 10:55:21	Still failing	Unreferenced figure or table
+2017-08-15 10:55:38	Still failing	Unreferenced figure or table
+2017-08-16 14:00:49	Still failing	Dash likely masquerading as hyphen. Use -- for a dash.
+2017-08-16 14:01:28	Still failing	Dash likely masquerading as hyphen. Use -- for a dash.
+2017-08-16 14:02:21	Still failing	Spellcheck failed: 'markups'
+2017-08-16 14:02:44	Still failing	Spellcheck failed: 'JD'
+2017-08-16 14:03:04	Still failing	Spellcheck failed: 'gdp'
+2017-08-16 14:03:26	Still failing	Spellcheck failed: 'Mgt'
+2017-08-16 14:03:51	Still failing	Spellcheck failed: 'Stevedoring'
+2017-08-16 14:04:08	Still failing	Spellcheck failed: 'Trendline'
+2017-08-16 14:04:44	Still failing	Unreferenced figure or table
+2017-08-17 16:37:46	Still failing	Page reference not in correct format.
+2017-08-17 16:37:49	Still failing	Page reference not in correct format.
+2017-08-17 16:39:53	Still failing	Page reference not in correct format.
+2017-08-17 16:40:32	Still failing	Ellipsis typed without using macro.
+2017-08-17 16:41:36	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2017-08-17 16:42:35	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2017-08-17 16:44:10	Still failing	Footnote does not end with full stop.
+2017-08-17 16:44:56	Still failing	Footnote does not end with full stop.
+2017-08-17 16:45:16	Still failing	Space inserted before \footnote
+2017-08-17 16:46:55	Still failing	bib/Concentration.bib contains line which is neither a key, nor field, nor closing.
+2017-08-17 16:48:13	Still failing	bib/Concentration.bib contains line which is neither a key, nor field, nor closing.
+2017-08-17 16:49:43	Still failing	Spellcheck failed: 'Instagram'
+2017-08-17 16:50:16	Still failing	Spellcheck failed: 'WhatsApp'
+2017-08-17 16:50:20	Still failing	Spellcheck failed: 'WhatsApp'
+2017-08-17 16:50:39	Still failing	Spellcheck failed: 'ebook'
+2017-08-22 12:12:04	Still failing	Ellipsis typed without using macro.
+2017-08-22 12:12:34	Still failing	Capital letter ends sentence, but sentence-ending period mark absent.
+2017-08-22 12:13:08	Still failing	Ellipsis typed without using macro.
+2017-08-22 12:13:42	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2017-08-22 12:13:57	Still failing	Hard-coded xref in document.
+2017-08-22 12:14:46	Still failing	Hard-coded xref in document.
+2017-08-22 12:15:16	Still failing	Hard-coded xref in document.
+2017-08-22 12:15:58	Still failing	Capital letter ends sentence, but sentence-ending period mark absent.
+2017-08-22 12:16:15	Still failing	Footnote does not end with full stop.
+2017-08-22 12:16:53	Still failing	Ellipsis typed without using macro.
+2017-08-22 12:17:12	Still failing	Capital letter ends sentence, but sentence-ending period mark absent.
+2017-08-22 12:17:36	Still failing	Spellcheck failed: 'nontraded'
+2017-08-22 12:18:11	Still failing	Spellcheck failed: 'nontraded'
+2017-08-22 12:18:26	Still failing	Spellcheck failed: 'chokepoints'
+2017-08-22 12:19:07	Still failing	Spellcheck failed: 'chokepoints'
+2017-08-22 12:19:13	Still failing	Spellcheck failed: 'chokepoints'
+2017-08-22 12:19:27	Still failing	Spellcheck failed: 'submarkets'
+2017-08-22 12:19:58	Still failing	Spellcheck failed: 'MNCs'
+2017-08-22 12:20:15	Still failing	Spellcheck failed: 'startups'
+2017-08-22 12:21:11	Still failing	Spellcheck failed: 'startups'
+2017-08-22 12:21:16	Still failing	Spellcheck failed: 'startups'
+2017-08-22 12:21:22	Still failing	Spellcheck failed: 'startups'
+2017-08-22 12:23:14	Still failing	Spellcheck failed: 'AutorDorn'
+2017-08-22 12:23:35	Still failing	Spellcheck failed: 'AutorDorn'
+2017-08-23 15:54:32	Still failing	Ellipsis typed without using macro.
+2017-08-23 15:55:00	Still failing	Dash likely masquerading as hyphen. Use -- for a dash.
+2017-08-23 15:55:29	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2017-08-23 15:56:00	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2017-08-23 15:56:19	Still failing	Punctuation mark after footcite number 
+2017-08-23 15:57:22	Still failing	Punctuation mark after footcite number 
+2017-08-23 15:59:13	Still failing	Footnote does not end with full stop.
+2017-08-23 15:59:43	Still failing	Footnote does not end with full stop.
+2017-08-23 16:04:38	Still failing	Footnote does not end with full stop.
+2017-08-23 16:05:33	Still failing	Space inserted before \footnote
+2017-08-23 16:05:52	Still failing	Space inserted before \footnote
+2017-08-23 16:06:07	Still failing	Capital letter ends sentence, but sentence-ending period mark absent.
+2017-08-23 16:07:05	Still failing	Footnote does not end with full stop.
+2017-08-23 16:52:37	Still failing	Footnote does not end with full stop.
+2017-08-23 16:53:50	Still failing	Capital letter ends sentence, but sentence-ending period mark absent.
+2017-08-23 16:54:19	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2017-08-23 16:54:50	Still failing	Spellcheck failed: 'XYZ'
+2017-08-23 16:55:27	Still failing	Spellcheck failed: 'XYZ'
+2017-08-23 16:55:47	Still failing	Use the macros \etc, \ie, and \eg provided for consistent formatting.
+2017-08-23 17:52:09	Still failing	Use the macros \etc, \ie, and \eg provided for consistent formatting.
+2017-08-23 17:53:06	Still failing	Use the macros \etc, \ie, and \eg provided for consistent formatting.
+2017-08-23 17:53:33	Still failing	Spellcheck failed: 'Schumpeter'
+2017-08-23 17:53:55	Still failing	Spellcheck failed: 'taxfunded'
+2017-08-23 17:54:16	Still failing	Spellcheck failed: 'i'
+2017-08-23 17:54:38	Still failing	Spellcheck failed: 'capatnot'
+2017-08-23 17:55:38	Still failing	Spellcheck failed: 'Weyl'
+2017-08-23 17:55:54	Still failing	Spellcheck failed: 'Fudenberg'
+2017-08-23 17:56:10	Still failing	Spellcheck failed: 'Tirole'
+2017-08-23 17:56:29	Still failing	Spellcheck failed: 'Walmart'
+2017-08-23 17:56:44	Still failing	Spellcheck failed: 'corp'
+2017-08-23 17:57:07	Still failing	Spellcheck failed: 'inv'
+2017-08-23 17:57:25	Still failing	Spellcheck failed: 'Philippon'
+2017-08-23 17:57:40	Still failing	Spellcheck failed: 'Motta'
+2017-08-23 17:57:56	Still failing	Spellcheck failed: 'Hershman'
+2017-08-23 17:58:22	Still failing	Spellcheck failed: 'HHI'
+2017-08-23 17:58:27	Still failing	Spellcheck failed: 'Hirshman'
+2017-08-23 17:58:34	Still failing	Spellcheck failed: 'Hirshman'
+2017-08-23 18:00:05	Still failing	Spellcheck failed: 'Hirschmann'
+2017-08-23 18:00:25	Still failing	Spellcheck failed: 'Wesfarmers'
+2017-08-23 18:00:46	Still failing	Spellcheck failed: 'Visy'
+2017-08-23 18:01:17	Still failing	Spellcheck failed: 'Meriton'
+2017-08-23 18:01:31	Still failing	Spellcheck failed: 'XXX'
+2017-08-23 18:01:48	Still failing	Spellcheck failed: 'XXX'
+2017-08-23 18:01:51	Still failing	Spellcheck failed: 'XXX'
+2017-08-23 18:01:56	Still failing	Use the macros \etc, \ie, and \eg provided for consistent formatting.
+2017-08-23 18:02:18	Still failing	Use the macros \etc, \ie, and \eg provided for consistent formatting.
+2017-08-23 18:02:22	Still failing	Use the macros \etc, \ie, and \eg provided for consistent formatting.
+2017-08-23 18:02:48	Still failing	Spellcheck failed: 'startups'
+2017-08-23 18:03:10	Still failing	Spellcheck failed: 'forAus'
+2017-08-23 18:03:24	Still failing	Spellcheck failed: 'Aus'
+2017-08-23 18:03:40	Still failing	Spellcheck failed: 'Aus'
+2017-08-23 18:03:43	Still failing	Spellcheck failed: 'Aus'
+2017-08-24 14:27:08	Still failing	Footnote does not end with full stop.
+2017-08-24 14:27:47	Still failing	Missing space between sentence. Likely reason: forgotten space.
+2017-08-30 13:33:02	Still failing	Capital letter ends sentence, but sentence-ending period mark absent.
+2017-08-30 13:33:36	Still failing	Spellcheck failed: 'rathr'
+2017-08-30 13:33:55	Still failing	Spellcheck failed: 'se'
+2017-08-30 13:34:15	Still failing	Spellcheck failed: 'InBev'
+2017-08-30 13:34:39	Still failing	Spellcheck failed: 'ICT'
+2017-08-30 13:35:01	Still failing	Spellcheck failed: 'stat'
+2017-08-30 13:35:21	Still failing	Spellcheck failed: 'SDBS'
+2017-08-30 13:35:36	Still failing	Spellcheck failed: 'ISIC'
+2017-08-30 13:35:53	Still failing	Spellcheck failed: 'unconcentrated'
+2017-08-30 13:36:18	Still failing	Spellcheck failed: 'ROEs'
+2017-08-30 13:36:57	Still failing	Unreferenced figure or table
+2017-08-31 11:18:28	Still failing	Footnote does not end with full stop.
+2017-08-31 11:19:00	Still failing	Hard-coded xref in document.
+2017-08-31 11:19:51	Still failing	Capital letter ends sentence, but sentence-ending period mark absent.
+2017-08-31 11:20:12	Still failing	Capital letter ends sentence, but sentence-ending period mark absent.
+2017-08-31 11:20:28	Still failing	Capital letter ends sentence, but sentence-ending period mark absent.
+2017-08-31 11:20:49	Still failing	Spellcheck failed: 'JEP'
+2017-08-31 11:21:11	Still failing	Spellcheck failed: 'refs'
+2017-08-31 11:21:34	Still failing	Spellcheck failed: 'NBN'
+2017-09-04 13:10:00	Still failing	Dash likely masquerading as hyphen. Use -- for a dash.
+2017-09-04 13:10:21	Still failing	Footnote does not end with full stop.
+2017-09-04 13:13:16	Still failing	Hard-coded xref in document.
+2017-09-04 14:31:36	Still failing	Capital letter ends sentence, but sentence-ending period mark absent.
+2017-09-04 14:31:56	Still failing	Ellipsis typed without using macro.
+2017-09-04 14:32:24	Still failing	Ellipsis typed without using macro.
+2017-09-04 14:32:51	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2017-09-04 14:33:22	Still failing	Footnote does not end with full stop.
+2017-09-04 14:34:00	Still failing	Footnote does not end with full stop.
+2017-09-04 14:34:22	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2017-09-04 14:35:50	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2017-09-04 14:36:06	Still failing	Spellcheck failed: 'Corp'
+2017-09-04 14:36:23	Still failing	Spellcheck failed: 'Confusopolies'
+2017-09-07 15:19:40	Still failing	Footnote does not end with full stop.
+2017-09-07 15:20:22	Still failing	Cross-reference to chapter using Vref or Cref.
+2017-09-07 15:20:49	Still failing	Capital letter ends sentence, but sentence-ending period mark absent.
+2017-09-07 15:21:12	Still failing	bib/Concentration.bib contains line which is neither a key, nor field, nor closing.
+2017-09-07 15:21:51	Still failing	bib/Concentration.bib contains line which is neither a key, nor field, nor closing.
+2017-09-07 15:22:48	Still failing	bib/Concentration.bib contains line which is neither a key, nor field, nor closing.
+2017-09-07 15:23:23	Still failing	bib/Concentration.bib contains line which is neither a key, nor field, nor closing.
+2017-09-07 15:24:07	Still failing	Each field line in .bib must end with a comma (to allow reordering).
+2017-09-07 15:24:25	Still failing	Each field line in .bib must end with a comma (to allow reordering).
+2017-09-07 15:24:30	Still failing	Spellcheck failed: 'quintiles'
+2017-09-11 17:28:49	Still failing	Spellcheck failed: 'CAPM'
+2017-09-11 17:29:03	Still failing	Spellcheck failed: 'Costo'
+2017-09-28 09:45:41	Still failing	Spellcheck failed: 'excl'
